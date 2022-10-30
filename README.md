@@ -1,7 +1,7 @@
 _______________________________________________________________________________
 #Hi there 👋
 
-I am Shubham Gawai,
+  Shubham here,
 
 - 🌱 I’m currently learning Full Stack Web Development ..
 - 💼 Chasing down a profession ..
