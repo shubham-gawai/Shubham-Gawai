@@ -1,7 +1,7 @@
 _______________________________________________________________________________
-#Hi there 👋
+☂ Hi there 👋
 
-  Shubham here,
+  I am Shubham,
 
 - 🌱 I’m currently learning Full Stack Web Development ..
 - 💼 Chasing down a profession ..
