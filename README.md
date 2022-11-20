@@ -1,15 +1,17 @@
 _______________________________________________________________________________
-☂ Hi there 👋
+☂️ Hi there 👋
 
   I am Shubham,
 
-• 🌱 Currently learning Full Stack Web Development ..
+• 🍁 Learning Full Stack Web Development ..
 
-• 💼 Chasing down a Profession ..
+• 🔻 Looking for help with Java Projects ..
 
-• 🤔 Looking for help with Java Projects ..
 
-• 🦩 Being prepared for a Leap of Faith ..
+
+• 🦩 KSA : HTML, CSS, JavaScript, Bootstrap, Java, DSA, MySQL, Git ..
+
+• 🪁 Chasing down Profession ..
 
 • 📫 How to reach me : gawaishubham001@gmail.com
 _______________________________________________________________________________
